@@ -8,7 +8,7 @@ public class firstTest {
 
 	
 	  
-		@Test(priority=1)
+		@Test(priority=0)
 		void openapp()
 		{
 			System.out.println("testing 1");
