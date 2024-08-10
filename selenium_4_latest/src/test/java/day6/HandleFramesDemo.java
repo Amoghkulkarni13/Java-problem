@@ -30,6 +30,8 @@ public class HandleFramesDemo {
 	driver.findElement(By.xpath("//input[@name='mytext2']")).sendKeys("kulkarni");
 	
 	
+	
+	
 		
 		
 		
