@@ -14,7 +14,7 @@ public class Locator {
 		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://demo.opencart.com/");
-		driver.manage().window().maximize();
+		driver.manage().window().maximize(); 
 		
 		
 		
